@@ -1,0 +1,10 @@
+Steps to Install SASS version 1.82.0:
+
+1. Navigated to the root directory of the `alx-intermediate-frontend` project:
+     PS C:\Users\HP ENVY\Desktop\alx-intermediate-frontend
+
+2. Installed the latest version of SASS using npm:
+   npm install sass
+
+3. Verified the installation by checking the version:
+   npx sass --version
